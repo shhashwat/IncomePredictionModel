@@ -19,4 +19,6 @@ Accurate income estimates can enhance risk assessment and improve lending decisi
 In conclusion, the "Prediction of Individual Income Using Machine Learning" project underscores the potential of machine learning techniques in accurately estimating individual income. By demonstrating the practicality of these models and their ability to uncover meaningful insights, this project contributes to the ongoing discourse on predictive analytics and its applications in various domains.
 
 
+----------------------------------------------------------------------
+
 This is a college minor project that I did in collaboration with my batchmates. This project was made in the Machine Learning domain. 
