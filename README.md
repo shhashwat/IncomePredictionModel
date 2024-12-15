@@ -21,4 +21,5 @@ In conclusion, the "Prediction of Individual Income Using Machine Learning" proj
 
 ----------------------------------------------------------------------
 
-This is a college minor project that I did in collaboration with my batchmates. This project was made in the Machine Learning domain. 
+This is a college minor project that I did in collaboration with my batchmates.
+This project was made in the Machine Learning domain.
